@@ -1,0 +1,13 @@
+-- May populate this depending on the scale of the
+-- package manager im creating.
+-- 05/26/2025 Angelus Hein
+
+-- Basic Package Manager TODO list:
+-- 1. Install/ Remove Commands
+--      1. Create vim command to install plugin based off
+--      git repository link. User will type someting like
+--      "bpm plugin install [github link]", and the remove
+--      commmand will be something like "bpm plugin remove
+--      [plugin name/ github repo name]"
+-- 2. Update Checking (Low priority)
+-- 3. Plugin List Command
